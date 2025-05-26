@@ -1,0 +1,5 @@
+MINIMAL TO-DO LIST VERSION-1.1
+DEVLOPER- SHUBRAJYOTI GUHA
+RELEASE DATE:-23/05/2025
+CHANGES:-
+now shows the currently available list of tasks when promted to remove tasks (option number-03)
